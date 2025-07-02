@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "clientId": 1,
+    "projectId": 1,
+    "date": "2024-04-02T10:00:00Z",
+    "notes": "Initial consultation for living room redesign. Discussed color preferences and furniture style.",
+    "followUp": "Send mood board and initial concepts by end of week"
+  },
+  {
+    "Id": 2,
+    "clientId": 2,
+    "projectId": 2,
+    "date": "2024-04-05T14:30:00Z",
+    "notes": "Site visit to measure office space and discuss workflow requirements with team leads.",
+    "followUp": "Prepare space planning options and present next week"
+  },
+  {
+    "Id": 3,
+    "clientId": 3,
+    "projectId": 3,
+    "date": "2024-04-08T11:00:00Z",
+    "notes": "Review bedroom and bathroom design concepts. Client loves the bold color scheme.",
+    "followUp": "Finalize material selections and prepare detailed proposal"
+  },
+  {
+    "Id": 4,
+    "clientId": 4,
+    "projectId": 4,
+    "date": "2024-04-10T15:00:00Z",
+    "notes": "Progress review meeting. Lighting installation on schedule, furniture delivery next week.",
+    "followUp": "Coordinate with contractors for final installation phase"
+  },
+  {
+    "Id": 5,
+    "clientId": 5,
+    "projectId": 5,
+    "date": "2024-04-12T09:30:00Z",
+    "notes": "Family meeting to discuss playroom design. Kids excited about the color choices.",
+    "followUp": "Source child-safe furniture and present safety report"
+  },
+  {
+    "Id": 6,
+    "clientId": 1,
+    "projectId": 7,
+    "date": "2024-04-15T13:00:00Z",
+    "notes": "Initial consultation for master bedroom suite project. Discussed timeline and budget.",
+    "followUp": "Schedule follow-up to review design concepts"
+  },
+  {
+    "Id": 7,
+    "clientId": 6,
+    "projectId": 6,
+    "date": "2024-03-15T16:00:00Z",
+    "notes": "Final walkthrough of completed law office. Client very satisfied with results.",
+    "followUp": "Send final invoice and request testimonial"
+  },
+  {
+    "Id": 8,
+    "clientId": 2,
+    "projectId": 2,
+    "date": "2024-04-18T10:30:00Z",
+    "notes": "Present final design concepts and get approval for procurement phase.",
+    "followUp": "Begin ordering furniture and materials upon approval"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "Id": 1,
+    "clientId": 1,
+    "name": "Modern Living Room Redesign",
+    "status": "In Progress",
+    "budget": 25000,
+    "startDate": "2024-03-01T00:00:00Z",
+    "endDate": "2024-04-15T00:00:00Z",
+    "description": "Complete living room transformation with modern furniture, custom lighting, and neutral color palette.",
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400"
+    ]
+  },
+  {
+    "Id": 2,
+    "clientId": 2,
+    "name": "Tech Office Space Design",
+    "status": "Design",
+    "budget": 75000,
+    "startDate": "2024-03-15T00:00:00Z",
+    "endDate": "2024-06-01T00:00:00Z",
+    "description": "Open office design with collaborative workspaces, modern tech infrastructure, and ergonomic furniture.",
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=400"
+    ]
+  },
+  {
+    "Id": 3,
+    "clientId": 3,
+    "name": "Bedroom & Bathroom Makeover",
+    "status": "Lead",
+    "budget": 18000,
+    "startDate": "2024-04-01T00:00:00Z",
+    "endDate": "2024-05-15T00:00:00Z",
+    "description": "Master bedroom and ensuite bathroom renovation with bold colors and contemporary fixtures.",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400"
+    ]
+  },
+  {
+    "Id": 4,
+    "clientId": 4,
+    "name": "Restaurant Dining Room",
+    "status": "In Progress",
+    "budget": 45000,
+    "startDate": "2024-02-15T00:00:00Z",
+    "endDate": "2024-04-30T00:00:00Z",
+    "description": "Mediterranean-inspired dining space with warm lighting, custom seating, and authentic decor elements.",
+    "images": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+    ]
+  },
+  {
+    "Id": 5,
+    "clientId": 5,
+    "name": "Family Home Renovation",
+    "status": "Design",
+    "budget": 35000,
+    "startDate": "2024-04-10T00:00:00Z",
+    "endDate": "2024-07-01T00:00:00Z",
+    "description": "Kid-friendly family spaces including playroom, kitchen, and living areas with durable, stylish materials.",
+    "images": [
+      "https://images.unsplash.com/photo-1560448075-bb485b067938?w=400"
+    ]
+  },
+  {
+    "Id": 6,
+    "clientId": 6,
+    "name": "Law Office Interior",
+    "status": "Complete",
+    "budget": 30000,
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2024-02-28T00:00:00Z",
+    "description": "Professional law office with executive conference rooms, reception area, and private offices.",
+    "images": [
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=400",
+      "https://images.unsplash.com/photo-1541746972996-4e0b0f93e586?w=400"
+    ]
+  },
+  {
+    "Id": 7,
+    "clientId": 1,
+    "name": "Master Bedroom Suite",
+    "status": "Lead",
+    "budget": 22000,
+    "startDate": "2024-05-01T00:00:00Z",
+    "endDate": "2024-06-15T00:00:00Z",
+    "description": "Luxury master bedroom with walk-in closet and spa-like ensuite bathroom.",
+    "images": []
+  },
+  {
+    "Id": 8,
+    "clientId": 3,
+    "name": "Kitchen Renovation",
+    "status": "Design",
+    "budget": 28000,
+    "startDate": "2024-06-01T00:00:00Z",
+    "endDate": "2024-07-30T00:00:00Z",
+    "description": "Modern kitchen with custom cabinetry, quartz countertops, and high-end appliances.",
+    "images": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400"
+    ]
+  }
+]
