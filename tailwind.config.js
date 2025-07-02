@@ -6,12 +6,14 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
+colors: {
         primary: '#2C3E50',
         secondary: '#E8DCC4',
         accent: '#D4A574',
         surface: '#FFFFFF',
         background: '#FAF9F7',
+        foreground: '#2C3E50',
+        border: '#E9ECEF',
         success: '#27AE60',
         warning: '#F39C12',
         error: '#E74C3C',
@@ -28,6 +30,10 @@ export default {
           800: '#343A40',
           900: '#212529',
         }
+      },
+      fontFamily: {
+        body: ['Inter', 'system-ui', 'sans-serif'],
+        sans: ['Inter', 'system-ui', 'sans-serif'],
       },
       fontFamily: {
         'display': ['DM Serif Display', 'serif'],
